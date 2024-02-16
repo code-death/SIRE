@@ -1,0 +1,1500 @@
+{
+  "Santanu Koley": {
+    "department": "Mathematics",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/santanu-koley",
+    "collaborations": [
+      "Morapakala Srinivas"
+    ]
+  },
+  "Test Prof 1": {
+    "department": "Biological Science",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/santanu-koley",
+    "collaborations": []
+  },
+  "Test Prof 2": {
+    "department": "Chemical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/santanu-koley",
+    "collaborations": []
+  },
+  "Morapakala Srinivas": {
+    "department": "Mechanical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/morapakala-srinivas",
+    "collaborations": [
+      "Santanu Koley"
+    ]
+  },
+  "Anirban Roy": {
+    "department": "Chemical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/anirban-roy",
+    "collaborations": [
+      "Snehanshu Saha",
+      "Santonu Sarkar"
+    ]
+  },
+  "Snehanshu Saha": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/snehanshu-saha",
+    "collaborations": [
+      "Anirban Roy",
+      "Santonu Sarkar"
+    ]
+  },
+  "Santonu Sarkar": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/santonu-sarkar",
+    "collaborations": [
+      "Anirban Roy",
+      "Snehanshu Saha"
+    ]
+  },
+  "Anasua Guharay": {
+    "department": "Civil Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/anasua-guharay",
+    "collaborations": [
+      "Jayati Ray Dutta",
+      "Ammavajjala Sesha Sai Raghuram",
+      "Shankar Ganesh P."
+    ]
+  },
+  "Jayati Ray Dutta": {
+    "department": "Biological Sciences",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/prof-jayati-ray-dutta",
+    "collaborations": [
+      "Anasua Guharay",
+      "Ammavajjala Sesha Sai Raghuram",
+      "Shankar Ganesh P."
+    ]
+  },
+  "Ammavajjala Sesha Sai Raghuram": {
+    "department": "Civil Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/raghuram-ammavajjala/",
+    "collaborations": [
+      "Anasua Guharay",
+      "Jayati Ray Dutta",
+      "Shankar Ganesh P."
+    ]
+  },
+  "Shankar Ganesh P.": {
+    "department": "Biological Sciences",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/prof-p-sankar-ganesh/",
+    "collaborations": [
+      "Anasua Guharay",
+      "Jayati Ray Dutta",
+      "Ammavajjala Sesha Sai Raghuram"
+    ]
+  },
+  "Gautam Singhvi": {
+    "department": "Pharmacy",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/gautam-singhvi",
+    "collaborations": [
+      "Rajdeep Chowdhury",
+      "Inamur Rahaman Laskar",
+      "Venkatesh KP Rao",
+      "Geeta Bhatt"
+    ]
+  },
+  "Rajdeep Chowdhury": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/rajdeep-chowdhury",
+    "collaborations": [
+      "Gautam Singhvi",
+      "Inamur Rahaman Laskar"
+    ]
+  },
+  "Inamur Rahaman Laskar": {
+    "department": "Chemistry",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/inamur-rahaman-laskar",
+    "collaborations": [
+      "Gautam Singhvi",
+      "Rajdeep Chowdhury"
+    ]
+  },
+  "Vincent Shantha Kumar": {
+    "department": "Mechanical Engineering",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/vincent-shantha-kumar",
+    "collaborations": [
+      "Prakash Kumar",
+      "Srikanth Mutnuri"
+    ]
+  },
+  "Prakash Kumar": {
+    "department": "Chemical Engineering",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/prakash-kumar-b-g",
+    "collaborations": [
+      "Vincent Shantha Kumar",
+      "Srikanth Mutnuri"
+    ]
+  },
+  "Srikanth Mutnuri": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/srikanth-mutnuri",
+    "collaborations": [
+      "Vincent Shantha Kumar",
+      "Prakash Kumar"
+    ]
+  },
+  "Syed Mohammad Zafaruddin": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/syed-mohammad-zafaruddin",
+    "collaborations": [
+      "Jayendra Nath Bandyopadhyay",
+      "Nikumani Choudhury"
+    ]
+  },
+  "Jayendra Nath Bandyopadhyay": {
+    "department": "Physics",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/jayendra-nath-bandyopadhyay",
+    "collaborations": [
+      "Syed Mohammad Zafaruddin",
+      "Nikumani Choudhury"
+    ]
+  },
+  "Nikumani Choudhury": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/nikumani-choudhury",
+    "collaborations": [
+      "Syed Mohammad Zafaruddin",
+      "Jayendra Nath Bandyopadhyay"
+    ]
+  },
+  "Narendra Nath Ghosh": {
+    "department": "Chemistry",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/narendra-nath-ghosh",
+    "collaborations": [
+      "Anshuman Dalvi",
+      "Tribeni Roy"
+    ]
+  },
+  "Anshuman Dalvi": {
+    "department": "Physics",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/anshuman-dalvi",
+    "collaborations": [
+      "Narendra Nath Ghosh",
+      "Tribeni Roy"
+    ]
+  },
+  "Tribeni Roy": {
+    "department": "Mechanical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/tribeni-roy",
+    "collaborations": [
+      "Narendra Nath Ghosh",
+      "Anshuman Dalvi"
+    ]
+  },
+  "Arti Dhar": {
+    "department": "Pharmacy",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/arti-dhar",
+    "collaborations": [
+      "Durba Roy",
+      "Vamsi Krishna Venuganti"
+    ]
+  },
+  "Durba Roy": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/prof-durba-roy",
+    "collaborations": [
+      "Arti Dhar",
+      "Vamsi Krishna Venuganti"
+    ]
+  },
+  "Vamsi Krishna Venuganti": {
+    "department": "Pharmacy",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/prof-venkata-vamsi-krishna-venuganti",
+    "collaborations": [
+      "Arti Dhar",
+      "Durba Roy"
+    ]
+  },
+  "Ashish Patel": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/ashish-patel",
+    "collaborations": [
+      "Sumanta Pasari",
+      "Udayan Chanda"
+    ]
+  },
+  "Sumanta Pasari": {
+    "department": "Mathematics",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/sumanta-pasari",
+    "collaborations": [
+      "Ashish Patel",
+      "Udayan Chanda"
+    ]
+  },
+  "Udayan Chanda": {
+    "department": "Management",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/udayan-chanda",
+    "collaborations": [
+      "Ashish Patel",
+      "Sumanta Pasari"
+    ]
+  },
+  "Vivek Rangarajan": {
+    "department": "Chemical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/vivek-rangarajan",
+    "collaborations": [
+      "Utpal Roy",
+      "Riju De"
+    ]
+  },
+  "Utpal Roy": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/utpal-roy",
+    "collaborations": [
+      "Vivek Rangarajan",
+      "Riju De"
+    ]
+  },
+  "Riju De": {
+    "department": "Chemical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/riju-de",
+    "collaborations": [
+      "Vivek Rangarajan",
+      "Utpal Roy"
+    ]
+  },
+  "Indrani Talukdar": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/indrani-talukdar",
+    "collaborations": [
+      "P. Nandakumar"
+    ]
+  },
+  "P. Nandakumar": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/p-nandakumar",
+    "collaborations": [
+      "Indrani Talukdar"
+    ]
+  },
+  "Ramprasad S. Joshi": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/ramprasad-savlaram-joshi",
+    "collaborations": [
+      "Pravin M. Singru"
+    ]
+  },
+  "Pravin M. Singru": {
+    "department": "Mechanical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/pravin-madanrao-singru/",
+    "collaborations": [
+      "Ramprasad S. Joshi"
+    ]
+  },
+  "Ruchi Jain Dey": {
+    "department": "Biological Sciences",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/ruchi-jain-dey",
+    "collaborations": [
+      "K.V.G. Chandra Sekhar",
+      "Arnab Banerjee"
+    ]
+  },
+  "K.V.G. Chandra Sekhar": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/k-v-g-chandra-sekhar/",
+    "collaborations": [
+      "Ruchi Jain Dey",
+      "Arnab Banerjee"
+    ]
+  },
+  "Arnab Banerjee": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/arnab-banerjee",
+    "collaborations": [
+      "Ruchi Jain Dey",
+      "K.V.G. Chandra Sekhar"
+    ]
+  },
+  "Sainath Bitragunta": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/sainath-bitragunta",
+    "collaborations": [
+      "Ashutosh Bhatia"
+    ]
+  },
+  "Ashutosh Bhatia": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/ashutosh-bhatia",
+    "collaborations": [
+      "Sainath Bitragunta"
+    ]
+  },
+  "S. K. Verma": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/sk-verma/",
+    "collaborations": [
+      "Manjuladevi V."
+    ]
+  },
+  "Manjuladevi V.": {
+    "department": "Physics",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/manjuladevi-v/",
+    "collaborations": [
+      "S. K. Verma"
+    ]
+  },
+  "Arijit Mukherjee": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/arijit-mukherjee",
+    "collaborations": [
+      "Punna Rao Ravi"
+    ]
+  },
+  "Punna Rao Ravi": {
+    "department": "Pharmacy",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/punna-rao-ravi",
+    "collaborations": [
+      "Arijit Mukherjee"
+    ]
+  },
+  "Ranjan Dey": {
+    "department": "Chemistry",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/ranjan-dey",
+    "collaborations": [
+      "Suvanjan Bhattacharyya",
+      "Surjya Ghosh"
+    ]
+  },
+  "Suvanjan Bhattacharyya": {
+    "department": "Mechanical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/suvanjan-bhattacharyya",
+    "collaborations": [
+      "Ranjan Dey",
+      "Surjya Ghosh"
+    ]
+  },
+  "Surjya Ghosh": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/surjya-ghosh",
+    "collaborations": [
+      "Ranjan Dey",
+      "Suvanjan Bhattacharyya"
+    ]
+  },
+  "Debirupa Mitra": {
+    "department": "Chemical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/debirupa-mitra",
+    "collaborations": [
+      "Swati Biswas",
+      "Arnab Dutta"
+    ]
+  },
+  "Swati Biswas": {
+    "department": "Pharmacy",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/prof-swati-biswas",
+    "collaborations": [
+      "Debirupa Mitra",
+      "Arnab Dutta"
+    ]
+  },
+  "Arnab Dutta": {
+    "department": "Chemical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/arnab-dutta",
+    "collaborations": [
+      "Debirupa Mitra",
+      "Swati Biswas"
+    ]
+  },
+  "Indrani Chakraborty": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/indrani-chakraborty",
+    "collaborations": []
+  },
+  "Arnab Roy": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/arnab-roy",
+    "collaborations": []
+  },
+  "Himanshu Aggarwal": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/himanshu-aggarwal",
+    "collaborations": [
+      "Piyush Khandelia"
+    ]
+  },
+  "Piyush Khandelia": {
+    "department": "Biological Sciences",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/piyush-khandelia",
+    "collaborations": [
+      "Himanshu Aggarwal"
+    ]
+  },
+  "Onkar Prakash Kulkarni": {
+    "department": "Pharmacy",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/onkar-prakash-kulkarni",
+    "collaborations": [
+      "Gireesha T. Mohannath"
+    ]
+  },
+  "Gireesha T. Mohannath": {
+    "department": "Biological Sciences",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/gireesha-t-mohannath/",
+    "collaborations": [
+      "Onkar Prakash Kulkarni"
+    ]
+  },
+  "Dipanjan Chakraborty": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/dipanjan-chakraborty",
+    "collaborations": [
+      "Shilpaa Anand"
+    ]
+  },
+  "Shilpaa Anand": {
+    "department": "Humanities and Social Sciences",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/prof-shilpaa-anand",
+    "collaborations": [
+      "Dipanjan Chakraborty"
+    ]
+  },
+  "Sandeep Sundriyal": {
+    "department": "Pharmacy",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/sandeep-sundriyal",
+    "collaborations": [
+      "Saumi Roy",
+      "Sudeshna Mukherjee"
+    ]
+  },
+  "Saumi Roy": {
+    "department": "Chemistry",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/saumi-ray/",
+    "collaborations": [
+      "Sandeep Sundriyal",
+      "Sudeshna Mukherjee"
+    ]
+  },
+  "Sudeshna Mukherjee": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/careers/junior-research-fellow-jrf-by-sudeshna-mukherjee-advertisement-research-staff_16-11-2023/",
+    "collaborations": [
+      "Sandeep Sundriyal",
+      "Saumi Roy"
+    ]
+  },
+  "Bidisha Banerjee": {
+    "department": "Humanities and Social Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/bidisha-banerjee",
+    "collaborations": [
+      "Archana Srivastava"
+    ]
+  },
+  "Archana Srivastava": {
+    "department": "Economics & Finance",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/archana-srivastava",
+    "collaborations": [
+      "Bidisha Banerjee"
+    ]
+  },
+  "Arnab Hazra": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/arnab-hazra",
+    "collaborations": [
+      "Sarbani Ghosh",
+      "Avik K Pati",
+      "Ashish Bera"
+    ]
+  },
+  "Sarbani Ghosh": {
+    "department": "Chemical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/sarbani-ghosh",
+    "collaborations": [
+      "Arnab Hazra",
+      "Avik K Pati",
+      "Ashish Bera",
+      "Satyendra Kumar Mourya",
+      "Mohit Garg"
+    ]
+  },
+  "Avik K Pati": {
+    "department": "Chemistry",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/avik-kumar-pati",
+    "collaborations": [
+      "Arnab Hazra",
+      "Sarbani Ghosh",
+      "Ashish Bera"
+    ]
+  },
+  "Ashish Bera": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/asish-bera/",
+    "collaborations": [
+      "Arnab Hazra",
+      "Sarbani Ghosh",
+      "Avik K Pati"
+    ]
+  },
+  "Rudra Prasad Pradhan": {
+    "department": "Humanities and Social Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/research-group/",
+    "collaborations": [
+      "Arun Kumar Giri",
+      "Hemant Rathore"
+    ]
+  },
+  "Arun Kumar Giri": {
+    "department": "Economics & Finance",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/arun-kumar-giri",
+    "collaborations": [
+      "Rudra Prasad Pradhan",
+      "Hemant Rathore"
+    ]
+  },
+  "Hemant Rathore": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/hemant-rathore",
+    "collaborations": [
+      "Rudra Prasad Pradhan",
+      "Arun Kumar Giri",
+      "Anasuya Ganguly",
+      "Judith Braganca"
+    ]
+  },
+  "Amit Kumar Gupta": {
+    "department": "Mechanical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/prof-amit-kumar-gupta",
+    "collaborations": [
+      "Yenuganti Sujan"
+    ]
+  },
+  "Yenuganti Sujan": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/sujan-yenuganti",
+    "collaborations": [
+      "Amit Kumar Gupta"
+    ]
+  },
+  "Arnab K. Paul": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/arnab-kumar-paul/",
+    "collaborations": [
+      "Afkham Mir",
+      "Vadiraj Hemadri",
+      "Sougata Sen"
+    ]
+  },
+  "Afkham Mir": {
+    "department": "Chemical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/afkham-mir",
+    "collaborations": [
+      "Arnab K. Paul",
+      "Vadiraj Hemadri",
+      "Sougata Sen"
+    ]
+  },
+  "Vadiraj Hemadri": {
+    "department": "Mechanical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/vadiraj-anant-hemadri",
+    "collaborations": [
+      "Arnab K. Paul",
+      "Afkham Mir",
+      "Sougata Sen"
+    ]
+  },
+  "Sougata Sen": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/sougata-sen",
+    "collaborations": [
+      "Arnab K. Paul",
+      "Afkham Mir",
+      "Vadiraj Hemadri"
+    ]
+  },
+  "Nirmal Jayabalan": {
+    "department": "Pharmacy",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/nirmal-jayabalan",
+    "collaborations": [
+      "Nandini Bhandaru"
+    ]
+  },
+  "Nandini Bhandaru": {
+    "department": "Chemical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/nandini-bhandaru",
+    "collaborations": [
+      "Nirmal Jayabalan"
+    ]
+  },
+  "Amrita Chatterjee": {
+    "department": "Chemistry",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/amrita-chatterjee",
+    "collaborations": [
+      "Satish Kumar Dubey",
+      "Malabika Biswas"
+    ]
+  },
+  "Satish Kumar Dubey": {
+    "department": "Mechanical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/satish-kumar-dubey",
+    "collaborations": [
+      "Amrita Chatterjee",
+      "Malabika Biswas"
+    ]
+  },
+  "Malabika Biswas": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/malabika-biswas",
+    "collaborations": [
+      "Amrita Chatterjee",
+      "Satish Kumar Dubey"
+    ]
+  },
+  "V. Kalaichelvi": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/kalaichelvi",
+    "collaborations": [
+      "D.Sujala Shetty",
+      "R.Karthikeyan"
+    ]
+  },
+  "D.Sujala Shetty": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/sujala-deepak-shetty/",
+    "collaborations": [
+      "V. Kalaichelvi",
+      "R.Karthikeyan"
+    ]
+  },
+  "R.Karthikeyan": {
+    "department": "Mechanical Engineering",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/r-karthikeyan/",
+    "collaborations": [
+      "V. Kalaichelvi",
+      "D.Sujala Shetty"
+    ]
+  },
+  "Mainak Banerjee": {
+    "department": "Chemistry",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/mainak-banerjee",
+    "collaborations": [
+      "Suman Kundu",
+      "Ashwin Srinivasan",
+      "Sumit Biswas"
+    ]
+  },
+  "Suman Kundu": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/suman-kundu",
+    "collaborations": [
+      "Mainak Banerjee",
+      "Ashwin Srinivasan",
+      "Sumit Biswas"
+    ]
+  },
+  "Ashwin Srinivasan": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/ashwin-srinivasan",
+    "collaborations": [
+      "Mainak Banerjee",
+      "Suman Kundu",
+      "Sumit Biswas"
+    ]
+  },
+  "Sumit Biswas": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/sumit-biswas",
+    "collaborations": [
+      "Mainak Banerjee",
+      "Suman Kundu",
+      "Ashwin Srinivasan"
+    ]
+  },
+  "Indrakshi Raychowdhury": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/indrakshi-raychowdhury",
+    "collaborations": [
+      "Kunal Korgaonkar",
+      "Himadri Mukherjee"
+    ]
+  },
+  "Kunal Korgaonkar": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/kunal-kishore-korgaonkar",
+    "collaborations": [
+      "Indrakshi Raychowdhury",
+      "Himadri Mukherjee",
+      "Nitin Sharma"
+    ]
+  },
+  "Himadri Mukherjee": {
+    "department": "Mathematics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/himadri-mukherjee",
+    "collaborations": [
+      "Indrakshi Raychowdhury",
+      "Kunal Korgaonkar"
+    ]
+  },
+  "Mukund Keshavrao Deshmukh": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/mukund-keshavrao-deshmukh",
+    "collaborations": [
+      "Sampatrao Dagu Manjare",
+      "Chandradew Sharma",
+      "Debasis Patnaik",
+      "Soumyabrata Barik",
+      "Sudarshan Swain"
+    ]
+  },
+  "Sampatrao Dagu Manjare": {
+    "department": "Chemical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/sampatrao-dagu-manjare",
+    "collaborations": [
+      "Mukund Keshavrao Deshmukh",
+      "Chandradew Sharma",
+      "Debasis Patnaik",
+      "Soumyabrata Barik",
+      "Sudarshan Swain"
+    ]
+  },
+  "Chandradew Sharma": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/chandradew-sharma",
+    "collaborations": [
+      "Mukund Keshavrao Deshmukh",
+      "Sampatrao Dagu Manjare",
+      "Debasis Patnaik",
+      "Soumyabrata Barik",
+      "Sudarshan Swain"
+    ]
+  },
+  "Debasis Patnaik": {
+    "department": "Economics & Finance",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/debasis-patnaik",
+    "collaborations": [
+      "Mukund Keshavrao Deshmukh",
+      "Sampatrao Dagu Manjare",
+      "Chandradew Sharma",
+      "Soumyabrata Barik",
+      "Sudarshan Swain",
+      "Mohan Kumar Bera"
+    ]
+  },
+  "Soumyabrata Barik": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/electrical-and-electronics-engineering/",
+    "collaborations": [
+      "Mukund Keshavrao Deshmukh",
+      "Sampatrao Dagu Manjare",
+      "Chandradew Sharma",
+      "Debasis Patnaik",
+      "Sudarshan Swain"
+    ]
+  },
+  "Sudarshan Swain": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/sudarshan-swain",
+    "collaborations": [
+      "Mukund Keshavrao Deshmukh",
+      "Sampatrao Dagu Manjare",
+      "Chandradew Sharma",
+      "Debasis Patnaik",
+      "Soumyabrata Barik"
+    ]
+  },
+  "Abhishek Sarkar": {
+    "department": "Mechanical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/dr-abhishek-sarkar",
+    "collaborations": [
+      "Joyjit Mukherjee",
+      "Abhijit Das"
+    ]
+  },
+  "Joyjit Mukherjee": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/joyjit-mukherjee",
+    "collaborations": [
+      "Abhishek Sarkar",
+      "Abhijit Das"
+    ]
+  },
+  "Abhijit Das": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/abhijit-das",
+    "collaborations": [
+      "Abhishek Sarkar",
+      "Joyjit Mukherjee"
+    ]
+  },
+  "Sandip S. Deshmukh": {
+    "department": "Mechanical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/sandip-shridharrao-deshmukh",
+    "collaborations": [
+      "Alivelu Manga Parimi"
+    ]
+  },
+  "Alivelu Manga Parimi": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/alivelu-manga-parimi",
+    "collaborations": [
+      "Sandip S. Deshmukh"
+    ]
+  },
+  "Mukul Joshi": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/mukul-joshi",
+    "collaborations": [
+      "Pankaj Kumar Sharma",
+      "Tanmaya Mahapatra"
+    ]
+  },
+  "Pankaj Kumar Sharma": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/pankaj-kumar-sharma",
+    "collaborations": [
+      "Mukul Joshi",
+      "Tanmaya Mahapatra"
+    ]
+  },
+  "Tanmaya Mahapatra": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/tanmaya-mahapatra",
+    "collaborations": [
+      "Mukul Joshi",
+      "Pankaj Kumar Sharma"
+    ]
+  },
+  "Halan Prakash": {
+    "department": "Chemistry",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/halan-prakash",
+    "collaborations": [
+      "Ethirajulu Senthamarai Kannan",
+      "Vaibhav Joshi"
+    ]
+  },
+  "Ethirajulu Senthamarai Kannan": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/senthamarai-kannan-ethirajulu",
+    "collaborations": [
+      "Halan Prakash",
+      "Vaibhav Joshi"
+    ]
+  },
+  "Vaibhav Joshi": {
+    "department": "Mechanical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/vaibhav-joshi",
+    "collaborations": [
+      "Halan Prakash",
+      "Ethirajulu Senthamarai Kannan"
+    ]
+  },
+  "Shashank Gupta": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/shashank-gupta",
+    "collaborations": [
+      "Devendra G. Patil",
+      "S N Patel"
+    ]
+  },
+  "Devendra G. Patil": {
+    "department": "Mechanical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/devendra-gokul-patil/",
+    "collaborations": [
+      "Shashank Gupta",
+      "S N Patel"
+    ]
+  },
+  "S N Patel": {
+    "department": "Civil Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/sn-patel",
+    "collaborations": [
+      "Shashank Gupta",
+      "Devendra G. Patil"
+    ]
+  },
+  "Shilpi Garg": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/shilpi-garg",
+    "collaborations": [
+      "Ravi Kant Mittal"
+    ]
+  },
+  "Ravi Kant Mittal": {
+    "department": "Civil Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/ravi-kant-mittal",
+    "collaborations": [
+      "Shilpi Garg"
+    ]
+  },
+  "Anurag Nishad": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/anurag-nishad",
+    "collaborations": [
+      "Ganesh M. Bapat"
+    ]
+  },
+  "Ganesh M. Bapat": {
+    "department": "Mechanical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/ganesh-madhav-bapat",
+    "collaborations": [
+      "Anurag Nishad"
+    ]
+  },
+  "Murari Varma": {
+    "department": "Civil Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/murari-r-r-varma",
+    "collaborations": [
+      "Jagadeesh Anmala",
+      "Krishnan R"
+    ]
+  },
+  "Jagadeesh Anmala": {
+    "department": "Civil Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/jagadeesh-anmala",
+    "collaborations": [
+      "Murari Varma",
+      "Krishnan R"
+    ]
+  },
+  "Krishnan R": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/krishnan-rangan",
+    "collaborations": [
+      "Murari Varma",
+      "Jagadeesh Anmala"
+    ]
+  },
+  "Swastibrata Bhattacharyya": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/swastibrata-bhattacharyya",
+    "collaborations": [
+      "Anushaya Mohapatra"
+    ]
+  },
+  "Anushaya Mohapatra": {
+    "department": "Mathematics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/anushaya-chittaranjan-mohapatra",
+    "collaborations": [
+      "Swastibrata Bhattacharyya"
+    ]
+  },
+  "Nitin Sharma": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/nitin-sharma",
+    "collaborations": [
+      "Kunal Korgaonkar"
+    ]
+  },
+  "Smita Raghuvanshi": {
+    "department": "Chemical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/smita-raghuvanshi",
+    "collaborations": [
+      "B. Vani"
+    ]
+  },
+  "B. Vani": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/vani-b",
+    "collaborations": [
+      "Smita Raghuvanshi"
+    ]
+  },
+  "R. Parameshwaran": {
+    "department": "Mechanical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/r-parameshwaran/",
+    "collaborations": [
+      "V. Vinayaka Ram",
+      "Nagajyothi Kasimkota*"
+    ]
+  },
+  "V. Vinayaka Ram": {
+    "department": "Civil Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/v-vinayaka-ram/",
+    "collaborations": [
+      "R. Parameshwaran",
+      "Nagajyothi Kasimkota*"
+    ]
+  },
+  "Nagajyothi Kasimkota": {
+    "department": "Medical Centre",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/medical-center/",
+    "collaborations": []
+  },
+  "Bahurudeen A": {
+    "department": "Civil Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/bahurudeen-a",
+    "collaborations": [
+      "Srinivas Appari"
+    ]
+  },
+  "Srinivas Appari": {
+    "department": "Chemical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/srinivas-appari",
+    "collaborations": [
+      "Bahurudeen A"
+    ]
+  },
+  "Mohan Kumar Bera": {
+    "department": "Humanities and Social Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/mohan-kumar-bera",
+    "collaborations": [
+      "Debasis Patnaik"
+    ]
+  },
+  "Sandeep Jose": {
+    "department": "Mechanical Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/sandeep-jose",
+    "collaborations": [
+      "Sujith Thomas"
+    ]
+  },
+  "Sujith Thomas": {
+    "department": "Computer Science & Information Systems",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/sujith-thomas",
+    "collaborations": [
+      "Sandeep Jose"
+    ]
+  },
+  "Satyendra Kumar Mourya": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/satyendra-kumar-mourya",
+    "collaborations": [
+      "Sarbani Ghosh",
+      "Mohit Garg"
+    ]
+  },
+  "Mohit Garg": {
+    "department": "Chemical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/mohit-garg",
+    "collaborations": [
+      "Satyendra Kumar Mourya",
+      "Sarbani Ghosh"
+    ]
+  },
+  "Kizheppatt Vipin": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/kizheppatt-vipin",
+    "collaborations": [
+      "Sai Sesha Chalapathi Gattupalli",
+      "Amalin Prince A"
+    ]
+  },
+  "Sai Sesha Chalapathi Gattupalli": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/g-sai-sesha-chalapathi/",
+    "collaborations": [
+      "Kizheppatt Vipin",
+      "Amalin Prince A"
+    ]
+  },
+  "Amalin Prince A": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/amalin-prince-a",
+    "collaborations": [
+      "Kizheppatt Vipin",
+      "Sai Sesha Chalapathi Gattupalli"
+    ]
+  },
+  "Kiran Vankayala": {
+    "department": "Chemistry",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/vankayala-kiran",
+    "collaborations": [
+      "Ram Shanker Patel"
+    ]
+  },
+  "Ram Shanker Patel": {
+    "department": "Physics",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/ram-shanker-patel",
+    "collaborations": [
+      "Kiran Vankayala"
+    ]
+  },
+  "Venkatesh KP Rao": {
+    "department": "Mechanical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/venkatesh-kadbur-prabhakar-rao/",
+    "collaborations": [
+      "Geeta Bhatt",
+      "Gautam Singhvi"
+    ]
+  },
+  "Geeta Bhatt": {
+    "department": "Mechanical Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/geeta-bhatt",
+    "collaborations": [
+      "Venkatesh KP Rao",
+      "Gautam Singhvi"
+    ]
+  },
+  "Subhendu Kumar Sahoo": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/subhendu-kumar-sahoo",
+    "collaborations": [
+      "Amit Kumar Panda",
+      "G Geethakumari"
+    ]
+  },
+  "Amit Kumar Panda": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/amit-kumar-panda",
+    "collaborations": [
+      "Subhendu Kumar Sahoo",
+      "G Geethakumari"
+    ]
+  },
+  "G Geethakumari": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/g-geethakumari",
+    "collaborations": [
+      "Subhendu Kumar Sahoo",
+      "Amit Kumar Panda"
+    ]
+  },
+  "Sayan Kanungo": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/sayan-kanungo",
+    "collaborations": [
+      "Nilanjan Dey"
+    ]
+  },
+  "Nilanjan Dey": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/nilanjan-dey",
+    "collaborations": [
+      "Sayan Kanungo"
+    ]
+  },
+  "R Srinivas": {
+    "department": "Civil Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/r-srinivas",
+    "collaborations": [
+      "Vinay Chamola",
+      "Pratik Narang"
+    ]
+  },
+  "Vinay Chamola": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/vinay-chamola",
+    "collaborations": [
+      "R Srinivas",
+      "Pratik Narang"
+    ]
+  },
+  "Pratik Narang": {
+    "department": "Computer Science & Information Systems",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/pratik-narang",
+    "collaborations": [
+      "R Srinivas",
+      "Vinay Chamola"
+    ]
+  },
+  "Raj Kumar Gupta": {
+    "department": "Physics",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/raj-kumar-gupta",
+    "collaborations": [
+      "Anupam Bhattacharya",
+      "Subhradeep Pal"
+    ]
+  },
+  "Anupam Bhattacharya": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/anupam-bhattacharya",
+    "collaborations": [
+      "Raj Kumar Gupta",
+      "Subhradeep Pal"
+    ]
+  },
+  "Subhradeep Pal": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/subhradeep-pal",
+    "collaborations": [
+      "Raj Kumar Gupta",
+      "Anupam Bhattacharya"
+    ]
+  },
+  "Satyapaul Singh Amarthaluri": {
+    "department": "Chemical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/satyapaul-singh-amarthaluri",
+    "collaborations": [
+      "Sounak Roy"
+    ]
+  },
+  "Sounak Roy": {
+    "department": "Chemistry",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/sounak-roy",
+    "collaborations": [
+      "Satyapaul Singh Amarthaluri"
+    ]
+  },
+  "Rahul Singhal": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/rahul-singhal",
+    "collaborations": [
+      "Mrinmoyee Basu"
+    ]
+  },
+  "Mrinmoyee Basu": {
+    "department": "Chemistry",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/mrinmoyee-basu",
+    "collaborations": [
+      "Rahul Singhal"
+    ]
+  },
+  "K. K. Singh": {
+    "department": "Physics",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/singh-krishna-kumar/",
+    "collaborations": [
+      "Vilas H Gaidhane",
+      "Neeru Sood"
+    ]
+  },
+  "Vilas H Gaidhane": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/vilas-h-gaidhane",
+    "collaborations": [
+      "K. K. Singh",
+      "Neeru Sood"
+    ]
+  },
+  "Neeru Sood": {
+    "department": "Biotechnology",
+    "campus": "Dubai",
+    "url": "https://www.bits-pilani.ac.in/dubai/neeru-sood",
+    "collaborations": [
+      "K. K. Singh",
+      "Vilas H Gaidhane"
+    ]
+  },
+  "Navneet Gupta": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/navneet-gupta",
+    "collaborations": [
+      "PR Deepa"
+    ]
+  },
+  "PR Deepa": {
+    "department": "Biological Sciences",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/p-r-deepa/",
+    "collaborations": [
+      "Navneet Gupta"
+    ]
+  },
+  "Srinivasa Prasad K": {
+    "department": "Pharmacy",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/wp-content/uploads/Pharmacy_Brochure_HYD.pdf",
+    "collaborations": [
+      "Ramendra Kishor Pal",
+      "Venkateswaran Rajagopalan"
+    ]
+  },
+  "Ramendra Kishor Pal": {
+    "department": "Chemical Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/hyderabad/ramendra-kishor-pal",
+    "collaborations": [
+      "Srinivasa Prasad K",
+      "Venkateswaran Rajagopalan"
+    ]
+  },
+  "Venkateswaran Rajagopalan": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Hyderabad",
+    "url": "https://www.bits-pilani.ac.in/osdp/overview/",
+    "collaborations": [
+      "Srinivasa Prasad K",
+      "Ramendra Kishor Pal"
+    ]
+  },
+  "Rahul Kumar": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "Pilani",
+    "url": "https://www.bits-pilani.ac.in/pilani/rahul-kumar",
+    "collaborations": [
+      "Manish Gupta",
+      "Ramesh Vasan"
+    ]
+  },
+  "Manish Gupta": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/manish-gupta",
+    "collaborations": [
+      "Rahul Kumar",
+      "Ramesh Vasan"
+    ]
+  },
+  "Ramesh Vasan": {
+    "department": "Electrical & Electronics Engineering",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/ramesh-vasan",
+    "collaborations": [
+      "Rahul Kumar",
+      "Manish Gupta"
+    ]
+  },
+  "Anasuya Ganguly": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/anasuya-ganguly",
+    "collaborations": [
+      "Judith Braganca",
+      "Hemant Rathore"
+    ]
+  },
+  "Judith Braganca": {
+    "department": "Biological Sciences",
+    "campus": "K K Birla Goa",
+    "url": "https://www.bits-pilani.ac.in/goa/judith-maria-braganca",
+    "collaborations": [
+      "Anasuya Ganguly",
+      "Hemant Rathore"
+    ]
+  }
+}

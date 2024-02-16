@@ -1,0 +1,1153 @@
+[
+    {
+        "Sno": 1,
+        "Application_No": "C1/23/112",
+        "Project_Title": "Modelling and development of hybrid solar-wave energy harvester (SOLWAVE)",
+        "Investigators": {
+            "Santanu Koley": {
+                "Department": "Mathematics",
+                "Campus": "Hyderabad"
+            },
+            "Morapakala Srinivas": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 2,
+        "Application_No": "C1/23/114",
+        "Project_Title": "An Intelligent, Energy Optimized Aeration Assembly System: An Industry 4.0 Perspective",
+        "Investigators": {
+            "Anirban Roy": {
+                "Department": "Chemical Engineering",
+                "Campus": "Goa"
+            },
+            "Snehanshu Saha": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            },
+            "Santonu Sarkar": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 3,
+        "Application_No": "C1/23/115",
+        "Project_Title": "Performance Evaluation of Problematic Soils Treated with Different Bacterial Strains as a Foundation Material",
+        "Investigators": {
+            "Anasua Guharay": {
+                "Department": "Civil Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Jayati Ray Dutta": {
+                "Department": "Biological Science",
+                "Campus": "Hyderabad"
+            },
+            "Ammavajjala Sesha Sai Raghuram": {
+                "Department": "Civil Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Shankar Ganesh P.": {
+                "Department": "Biological Science",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 4,
+        "Application_No": "C1/23/117",
+        "Project_Title": "Exploring the efficacy of chemo-photodynamic combination therapy for skin cancer and design of nanocarriers for their site-specific delivery",
+        "Investigators": {
+            "Gautam Singhvi": {
+                "Department": "Pharmacy",
+                "Campus": "Pilani"
+            },
+            "Rajdeep Chowdhury": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            },
+            "Inamur Rahaman Laskar": {
+                "Department": "Chemistry",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 5,
+        "Application_No": "C1/23/119",
+        "Project_Title": "Textile Industry wastewater treatment by Moving bed Biofilm bioreactor and Photocatalysis",
+        "Investigators": {
+            "Vincent Shantha Kumar": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Dubai"
+            },
+            "Prakash Kumar": {
+                "Department": "Chemical Engineering",
+                "Campus": "Dubai"
+            },
+            "Srikanth Mutnuri": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 6,
+        "Application_No": "C1/23/120",
+        "Project_Title": "An End-to-End Integrated Air-to-Underwater Quantum Communication System",
+        "Investigators": {
+            "Syed Mohammad Zafaruddin": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Jayendra Nath Bandyopadhyay": {
+                "Department": "Physics",
+                "Campus": "Pilani"
+            },
+            "Nikumani Choudhury": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 7,
+        "Application_No": "C1/23/121",
+        "Project_Title": "Development of high performance supercapattery device: synthesis of novel electrode materials, electrolytes, and simulation study",
+        "Investigators": {
+            "Narendra Nath Ghosh": {
+                "Department": "Chemistry",
+                "Campus": "Goa"
+            },
+            "Anshuman Dalvi": {
+                "Department": "Physics",
+                "Campus": "Pilani"
+            },
+            "Tribeni Roy": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 8,
+        "Application_No": "C1/23/122",
+        "Project_Title": "Design, delivery, and pharmacological evaluation of novel dual acting designer peptides in heart failure and cardiac remodeling",
+        "Investigators": {
+            "Arti Dhar": {
+                "Department": "Pharmacy",
+                "Campus": "Hyderabad"
+            },
+            "Durba Roy": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            },
+            "Vamsi Krishna Venuganti": {
+                "Department": "Pharmacy",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 9,
+        "Application_No": "C1/23/126",
+        "Project_Title": "IoT and Digital Twin Enabled Enhanced Operation and Control of a Solar PV and Battery Integrated Smart Microgrid",
+        "Investigators": {
+            "Ashish Patel": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Sumanta Pasari": {
+                "Department": "Mathematics",
+                "Campus": "Pilani"
+            },
+            "Udayan Chanda": {
+                "Department": "Management",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 10,
+        "Application_No": "C1/23/132",
+        "Project_Title": "Unlocking the Potential of Green Cosmetic Nanoemulsions for Targeted Acne Vulgaris Therapy: Advanced Modeling and Optimization Strategies",
+        "Investigators": {
+            "Vivek Rangarajan": {
+                "Department": "Chemical Engineering",
+                "Campus": "Goa"
+            },
+            "Utpal Roy": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            },
+            "Riju De": {
+                "Department": "Chemical Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 11,
+        "Application_No": "C1/23/134",
+        "Project_Title": "Noninvasive investigations on stem cell differentiation to neuron and induced morphogenesis using two-photon microscopy.",
+        "Investigators": {
+            "Indrani Talukdar": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            },
+            "P. Nandakumar": {
+                "Department": "Physics",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 12,
+        "Application_No": "C1/23/135",
+        "Project_Title": "Feature Engineering for Condition Monitoring of Machines Using Vibration Signature Analysis using Machine Learning",
+        "Investigators": {
+            "Ramprasad S. Joshi": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            },
+            "Pravin M. Singru": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 13,
+        "Application_No": "C1/23/136",
+        "Project_Title": "A target guided approach for design, synthesis, and screening of host- directed therapies for TB and associated metabolic disorder (PCOS) in women",
+        "Investigators": {
+            "Ruchi Jain Dey": {
+                "Department": "Biological Science",
+                "Campus": "Hyderabad"
+            },
+            "K.V.G. Chandra Sekhar": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            },
+            "Arnab Banerjee": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 14,
+        "Application_No": "C1/23/140",
+        "Project_Title": "Green Quantum Computing:  Benchmarking, Performance Analysis, Modeling and Optimization of Quantum computing algorithms and communication Protocols",
+        "Investigators": {
+            "Sainath Bitragunta": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Ashutosh Bhatia": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 15,
+        "Application_No": "C1/23/143",
+        "Project_Title": "Aptamer based impedometric sensor for detection of toxic metals in potable water",
+        "Investigators": {
+            "S. K. Verma": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            },
+            "Manjuladevi V.": {
+                "Department": "Physics",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 16,
+        "Application_No": "C1/23/151",
+        "Project_Title": "Tuning permeability and solubility of active pharmaceutical ingredients through complexation: A crystal engineering approach",
+        "Investigators": {
+            "Arijit Mukherjee": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            },
+            "Punna Rao Ravi": {
+                "Department": "Pharmacy",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 17,
+        "Application_No": "C1/23/152",
+        "Project_Title": "Separation of Carcinogenic Industrial Solvents Using Solar Energy, Encapsulated PCM based Magnetic Nanoparticles and AI applications for Optimization: Towards a Sustainable Alternative",
+        "Investigators": {
+            "Ranjan Dey": {
+                "Department": "Chemistry",
+                "Campus": "Goa"
+            },
+            "Suvanjan Bhattacharyya": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Pilani"
+            },
+            "Surjya Ghosh": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 18,
+        "Application_No": "C1/23/154",
+        "Project_Title": "De novo design of antibacterial peptides to combat antimicrobial resistance",
+        "Investigators": {
+            "Debirupa Mitra": {
+                "Department": "Chemical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Swati Biswas": {
+                "Department": "Pharmacy",
+                "Campus": "Hyderabad"
+            },
+            "Arnab Dutta": {
+                "Department": "Chemical Engineering",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 19,
+        "Application_No": "C1/23/155",
+        "Project_Title": "Development of a biosensor with on-chip planar Hall magnetometer",
+        "Investigators": {
+            "Arnab Roy\nIndrani Chakraborty": {
+                "Department": "Physics Physics",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 20,
+        "Application_No": "C1/23/159",
+        "Project_Title": "Porous materials for simple, rapid, non-invasive, and low-cost colorimetric detection of N6-methyl adenosine (m6A) modified nucleoside-based urinary biomarkers for cancer and diabetes.",
+        "Investigators": {
+            "Himanshu Aggarwal": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            },
+            "Piyush Khandelia": {
+                "Department": "Biological Science",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 21,
+        "Application_No": "C1/23/161",
+        "Project_Title": "To establish low-cost plant-based highly efficient breakthrough technology TRBO protein expression system for oral delivery of IL-22 as a putative therapeutic protein to treat acute and chronic renal injury",
+        "Investigators": {
+            "Onkar Prakash Kulkarni": {
+                "Department": "Pharmacy",
+                "Campus": "Hyderabad"
+            },
+            "Gireesha T. Mohannath": {
+                "Department": "Biological Science",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 22,
+        "Application_No": "C1/23/164",
+        "Project_Title": "Technology-led Education Interventions for Visually Impaired Children",
+        "Investigators": {
+            "Dipanjan Chakraborty": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Hyderabad"
+            },
+            "Shilpaa Anand": {
+                "Department": "Humanities and Social Sciences",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 23,
+        "Application_No": "C1/23/165",
+        "Project_Title": "Synthesis and development of zeolite encapsulated small molecule epigenetic modulators targeting cancer and drug resistance",
+        "Investigators": {
+            "Sandeep Sundriyal": {
+                "Department": "Pharmacy",
+                "Campus": "Pilani"
+            },
+            "Saumi Roy": {
+                "Department": "Chemistry",
+                "Campus": "Pilani"
+            },
+            "Sudeshna Mukherjee": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 24,
+        "Application_No": "C1/23/166",
+        "Project_Title": "Post Maternity Health literacy [PMHL] among Working Women of Low Economic Strata in India: Challenges, Effects and Interventions through Training",
+        "Investigators": {
+            "Bidisha Banerjee": {
+                "Department": "Humanities and Social Sciences",
+                "Campus": "Goa"
+            },
+            "Archana Srivastava": {
+                "Department": "Economics and Finances",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 25,
+        "Application_No": "C1/23/168",
+        "Project_Title": "Development of Covalent Organic Polymer Sensors for Molecular Decoding of Breath VOCs through Fluorescence Image Processing",
+        "Investigators": {
+            "Arnab Hazra": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Sarbani Ghosh": {
+                "Department": "Chemical Engineering",
+                "Campus": "Pilani"
+            },
+            "Avik K Pati": {
+                "Department": "Chemistry",
+                "Campus": "Pilani"
+            },
+            "Ashish Bera": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 26,
+        "Application_No": "C1/23/169",
+        "Project_Title": "Indo-Pacific 41 Countries Seaports & Vessel Traffic Analysis: Optimizing India\u2019s Smart Ports & Green Shipping Using AI & ML",
+        "Investigators": {
+            "Rudra Prasad Pradhan": {
+                "Department": "Humanities and Social Sciences",
+                "Campus": "Goa"
+            },
+            "Arun Kumar Giri": {
+                "Department": "Economics and Finances",
+                "Campus": "Pilani"
+            },
+            "Hemant Rathore": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 27,
+        "Application_No": "C1/23/172",
+        "Project_Title": "Design, Analysis and Development of Shape Memory Alloy (SMA) Based Actuator",
+        "Investigators": {
+            "Amit Kumar Gupta": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Yenuganti Sujan": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 28,
+        "Application_No": "C1/23/173",
+        "Project_Title": "SwedGuru: A privacy-aware smart wearable patch to analyze sweat and provide real-time health feedback",
+        "Investigators": {
+            "Arnab K. Paul": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            },
+            "Afkham Mir": {
+                "Department": "Chemical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Vadiraj Hemadri": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Goa"
+            },
+            "Sougata Sen": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 29,
+        "Application_No": "C1/23/176",
+        "Project_Title": "Bioinspired patterns to improve the mucoadhesion of polymeric patch on the corneal surface.",
+        "Investigators": {
+            "Nirmal Jayabalan": {
+                "Department": "Pharmacy",
+                "Campus": "Hyderabad"
+            },
+            "Nandini Bhandaru": {
+                "Department": "Chemical Engineering",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 30,
+        "Application_No": "C1/23/181",
+        "Project_Title": "Development of Fluorescent Probe-based Microfluidic Point-of-Care Testing kits for the early phase detection of urinary tract infection",
+        "Investigators": {
+            "Amrita Chatterjee": {
+                "Department": "Chemistry",
+                "Campus": "Goa"
+            },
+            "Satish Kumar Dubey": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Malabika Biswas": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 31,
+        "Application_No": "C1/23/182",
+        "Project_Title": "Virtual Reality Assisted Mobile Manipulators for Industrial Applications",
+        "Investigators": {
+            "V. Kalaichelvi": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Dubai"
+            },
+            "D.Sujala Shetty": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Dubai"
+            },
+            "R.Karthikeyan": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Dubai"
+            }
+        }
+    },
+    {
+        "Sno": 32,
+        "Application_No": "C1/23/184",
+        "Project_Title": "Silicon-to-Lead: AI-Driven Design, Synthesis and Development of New Drugs to Combat Cardiovascular Diseases",
+        "Investigators": {
+            "Mainak Banerjee": {
+                "Department": "Chemistry",
+                "Campus": "Goa"
+            },
+            "Suman Kundu": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            },
+            "Ashwin Srinivasan": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            },
+            "Sumit Biswas": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 33,
+        "Application_No": "C1/23/185",
+        "Project_Title": "Development of algorithms for simulating strongly correlated systems on hybrid classical-quantum architectures.",
+        "Investigators": {
+            "Indrakshi Raychowdhury": {
+                "Department": "Physics",
+                "Campus": "Goa"
+            },
+            "Kunal Korgaonkar": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            },
+            "Himadri Mukherjee": {
+                "Department": "Mathematics",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 34,
+        "Application_No": "C1/23/188",
+        "Project_Title": "Investigations on Impacts of Variations in Local Site and Climatic Conditions on Field Performance of Grid-connected Solar Photovoltaic and Small Wind Energy Systems at BITS Pilani K K Birla Goa-Campus.",
+        "Investigators": {
+            "Mukund Keshavrao Deshmukh": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            },
+            "Sampatrao Dagu Manjare": {
+                "Department": "Chemical Engineering",
+                "Campus": "Goa"
+            },
+            "Chandradew Sharma": {
+                "Department": "Physics",
+                "Campus": "Goa"
+            },
+            "Debasis Patnaik": {
+                "Department": "Economics and Finances",
+                "Campus": "Goa"
+            },
+            "Soumyabrata Barik": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            },
+            "Sudarshan Swain": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 35,
+        "Application_No": "C1/23/191",
+        "Project_Title": "Design, Development and Control of a low-cost AI enabled 3-DOF Compliant Manipulator for Intelligent Manufacturing",
+        "Investigators": {
+            "Abhishek Sarkar": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Joyjit Mukherjee": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Abhijit Das": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 36,
+        "Application_No": "C1/23/194",
+        "Project_Title": "Development of a prototype model for optimal load balancing strategy in a Peer-to-Peer (P2P) energy trading network of renewable energy prosumers with economic benefits",
+        "Investigators": {
+            "Sandip S. Deshmukh": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Alivelu Manga Parimi": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 37,
+        "Application_No": "C1/23/198",
+        "Project_Title": "Growth assessment, phenotyping and biochemical characterization of edible desert plants with machine learning approaches for environmental impact evaluation",
+        "Investigators": {
+            "Mukul Joshi": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            },
+            "Pankaj Kumar Sharma": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            },
+            "Tanmaya Mahapatra": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 38,
+        "Application_No": "C1/23/200",
+        "Project_Title": "UV-visible LED light responsive semiconductor films devices for drinking water pollutant sensing and purification applications",
+        "Investigators": {
+            "Halan Prakash": {
+                "Department": "Chemistry",
+                "Campus": "Goa"
+            },
+            "Ethirajulu Senthamarai Kannan": {
+                "Department": "Physics",
+                "Campus": "Goa"
+            },
+            "Vaibhav Joshi": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 39,
+        "Application_No": "C1/23/202",
+        "Project_Title": "Development of Transfer Learning-Based Smart Structural Damage Assessment Controller for Autonomous Prediction of Damage Scenarios in Digital Twin-Generated Population of Civil Structures",
+        "Investigators": {
+            "Shashank Gupta": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Pilani"
+            },
+            "Devendra G. Patil": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Goa"
+            },
+            "S N Patel": {
+                "Department": "Civil Engineering",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 40,
+        "Application_No": "C1/23/203",
+        "Project_Title": "Microbial Induced Calcite Precipitation (MICP) as a sustainable method for utilization of copper tailing",
+        "Investigators": {
+            "Shilpi Garg": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            },
+            "Ravi Kant Mittal": {
+                "Department": "Civil Engineering",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 41,
+        "Application_No": "C1/23/206",
+        "Project_Title": "Design and development of a cost-effective multi-grasp myoelectric upper limb prosthesis",
+        "Investigators": {
+            "Anurag Nishad": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            },
+            "Ganesh M. Bapat": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 42,
+        "Application_No": "C1/23/209",
+        "Project_Title": "Study of Emerging pollutants in Drinking water Sources",
+        "Investigators": {
+            "Murari Varma": {
+                "Department": "Civil Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Jagadeesh Anmala": {
+                "Department": "Civil Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Krishnan R": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 43,
+        "Application_No": "C1/23/211",
+        "Project_Title": "Computational and Theoretical study of quantum materials",
+        "Investigators": {
+            "Swastibrata Bhattacharyya": {
+                "Department": "Physics",
+                "Campus": "Goa"
+            },
+            "Anushaya Mohapatra": {
+                "Department": "Mathematics",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 44,
+        "Application_No": "C1/23/217",
+        "Project_Title": "Building a Testbed for 5G Satellite-assisted Non-terrestrial Network in Collaboration with Space and Telecom Agencies",
+        "Investigators": {
+            "Kunal Korgaonkar": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            },
+            "Nitin Sharma": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 45,
+        "Application_No": "C1/23/221",
+        "Project_Title": "Bio mitigation of Carbon di oxide (CO2) via bacterial species and biological Carbon concentration mechanism (CCM) in selected bacterial species",
+        "Investigators": {
+            "Smita Raghuvanshi": {
+                "Department": "Chemical Engineering",
+                "Campus": "Pilani"
+            },
+            "B. Vani": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 46,
+        "Application_No": "C1/23/225",
+        "Project_Title": "Development of Next Generation Temperature Controlled Headgear Enriched with Nano-Phase Change Heat Spreader for Management of Fever in Pediatric and Adult Patients",
+        "Investigators": {
+            "R. Parameshwaran": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "V. Vinayaka Ram": {
+                "Department": "Civil Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Nagajyothi Kasimkota*": {
+                "Department": "Medical Centre",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 47,
+        "Application_No": "C1/23/231",
+        "Project_Title": "Solution to agro-waste  burning and air pollution in India: Eco friendly concrete and value added chemical production by reusing agro-waste",
+        "Investigators": {
+            "Bahurudeen A": {
+                "Department": "Civil Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Srinivas Appari": {
+                "Department": "Chemical Engineering",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 48,
+        "Application_No": "C1/23/235",
+        "Project_Title": "Right to Safe Sanitation Facilities: A Study of Persons with Disabilities",
+        "Investigators": {
+            "Mohan Kumar Bera": {
+                "Department": "Humanities and Social Sciences",
+                "Campus": "Goa"
+            },
+            "Debasis Patnaik": {
+                "Department": "Economics and Finances",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 49,
+        "Application_No": "C1/23/237",
+        "Project_Title": "Integrity assessment of cylindrical shells in the presence of non- conformances using Neural network algorithm",
+        "Investigators": {
+            "Sandeep Jose": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Goa"
+            },
+            "Sujith Thomas": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 50,
+        "Application_No": "SC/07/23/ 123",
+        "Project_Title": "Design and Development of Robust Hydrogen Sensor Based on Ultra-Wide Bandgap Porous-Ga2O3 Semiconductor Nanostructures.",
+        "Investigators": {
+            "Satyendra Kumar Mourya": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Sarbani Ghosh": {
+                "Department": "Chemical Engineering",
+                "Campus": "Pilani"
+            },
+            "Mohit Garg": {
+                "Department": "Chemical Engineering",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 51,
+        "Application_No": "SC/07/23/ 124",
+        "Project_Title": "Development of FPGA-Based Dynamically Reconfigurable Smart-NIC with Accelerator IPs For Efficient Distributed Hardware Acceleration",
+        "Investigators": {
+            "Kizheppatt Vipin": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            },
+            "Sai Sesha Chalapathi Gattupalli": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Amalin Prince A": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 52,
+        "Application_No": "SC/07/23/ 108",
+        "Project_Title": "Exploring the role of electrons\u2019 spin in enhanced hydrogen production using chiral/magnetic electrocatalysts",
+        "Investigators": {
+            "Kiran Vankayala": {
+                "Department": "Chemistry",
+                "Campus": "Goa"
+            },
+            "Ram Shanker Patel": {
+                "Department": "Physics",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 53,
+        "Application_No": "SC/07/23/ 112",
+        "Project_Title": "Development of lab-on-chip diagnosis tool based on electromechanical properties of skin",
+        "Investigators": {
+            "Venkatesh KP Rao": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Pilani"
+            },
+            "Geeta Bhatt": {
+                "Department": "Mechanical Engineering",
+                "Campus": "Pilani"
+            },
+            "Gautam Singhvi": {
+                "Department": "Pharmacy",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 54,
+        "Application_No": "SC/07/23/ 128",
+        "Project_Title": "Revolutionizing Data Security: FPGA Prototyping of a Cutting-Edge Cryptographic Algorithm for NIST's Post-Quantum Cryptography (PQC) Standards",
+        "Investigators": {
+            "Subhendu Kumar Sahoo": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Amit Kumar Panda": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Hyderabad"
+            },
+            "G Geethakumari": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 55,
+        "Application_No": "SC/07/23/ 102",
+        "Project_Title": "Precursor Design and Optimization for Atomic Layer Deposition of Two- Dimensional Semiconductors on Different Inorganic Oxide Surfaces- an Ab- initio Theoretical Calculation and Experimental Realization based Complementary Approach",
+        "Investigators": {
+            "Sayan Kanungo": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Nilanjan Dey": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 56,
+        "Application_No": "C1/23/118",
+        "Project_Title": "Farmer-driven localized artificial intelligence system for early detection of wheat rust disease and nutrient deficiency",
+        "Investigators": {
+            "R Srinivas": {
+                "Department": "Civil Engineering",
+                "Campus": "Pilani"
+            },
+            "Vinay Chamola": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Pratik Narang": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 57,
+        "Application_No": "C1/23/138",
+        "Project_Title": "Development of surface plasmon resonance assisted optical fiber-based multichannel sensing device",
+        "Investigators": {
+            "Raj Kumar Gupta": {
+                "Department": "Physics",
+                "Campus": "Pilani"
+            },
+            "Anupam Bhattacharya": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            },
+            "Subhradeep Pal": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 58,
+        "Application_No": "C1/23/130",
+        "Project_Title": "Design of Catalysts and Reactors for Green Hydrogen via photo- and photoelectro-catalysis",
+        "Investigators": {
+            "Satyapaul Singh Amarthaluri": {
+                "Department": "Chemical Engineering",
+                "Campus": "Hyderabad"
+            },
+            "Sounak Roy": {
+                "Department": "Chemistry",
+                "Campus": "Hyderabad"
+            }
+        }
+    },
+    {
+        "Sno": 59,
+        "Application_No": "C1/23/146",
+        "Project_Title": "Investigations on graphitic Carbon Nitride (g-C3N4) layers towards opto- electronic applications and future prospects",
+        "Investigators": {
+            "Rahul Singhal": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "Mrinmoyee Basu": {
+                "Department": "Chemistry",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 60,
+        "Application_No": "C1/23/227",
+        "Project_Title": "Design and Development of FET-Based Sensor for Biodetection using Nano Materials",
+        "Investigators": {
+            "K. K. Singh": {
+                "Department": "Physics",
+                "Campus": "Dubai"
+            },
+            "Vilas H Gaidhane": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Dubai"
+            },
+            "Neeru Sood": {
+                "Department": "Biotechnology",
+                "Campus": "Dubai"
+            }
+        }
+    },
+    {
+        "Sno": 61,
+        "Application_No": "C1/23/110",
+        "Project_Title": "Development of 2D Material Based Microwave Imaging Flexible Antenna for Solid Tumor Detection: A Non-Invasive Diagnostic / Theranostic approach",
+        "Investigators": {
+            "Navneet Gupta": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani"
+            },
+            "PR Deepa": {
+                "Department": "Biological Science",
+                "Campus": "Pilani"
+            }
+        }
+    },
+    {
+        "Sno": 62,
+        "Application_No": "C1/23/128",
+        "Project_Title": "Neurocomputational analyses of electrophysiological recordings using silk- based soft electrodes in noise-induced hearing loss",
+        "Investigators": {
+            "Srinivasa Prasad K": {
+                "Department": "Pharmacy",
+                "Campus": "Hyderabad Campus"
+            },
+            "Ramendra Kishor Pal": {
+                "Department": "Chemical Engineering",
+                "Campus": "Hyderabad Campus"
+            },
+            "Venkateswaran Rajagopalan": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Hyderabad\nCampus"
+            }
+        }
+    },
+    {
+        "Sno": 63,
+        "Application_No": "SC/07/23/ 109",
+        "Project_Title": "Design and Development of Germanium-Tin (GeSn) Infrared Detectors",
+        "Investigators": {
+            "Rahul Kumar": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Pilani Campus"
+            },
+            "Manish Gupta": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            },
+            "Ramesh Vasan": {
+                "Department": "Electrical and Electronics Engineering",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 64,
+        "Application_No": "SC/07/23/ 129",
+        "Project_Title": "Edible 3D printed Cellulose/Starch- Glimepiride Sensor tablets for sensing Blood Glucose levels",
+        "Investigators": {
+            "Anasuya Ganguly": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            },
+            "Judith Braganca": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            },
+            "Hemant Rathore": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            }
+        }
+    },
+    {
+        "Sno": 65,
+        "Application_No": "Test 123",
+        "Project_Title": "This project is for testing purpose and collaboration logic testing",
+        "Investigators": {
+            "Test Prof 1": {
+                "Department": "Biological Science",
+                "Campus": "Goa"
+            },
+            "Test Prof 2": {
+                "Department": "Chemical Engineering",
+                "Campus": "Pilani"
+            },
+            "Hemant Rathore": {
+                "Department": "Computer Science and Information Systems",
+                "Campus": "Goa"
+            }
+        }
+    }
+]

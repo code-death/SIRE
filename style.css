@@ -1,0 +1,66 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #000;
+  background-color: #fff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+table {
+  width: 95%;
+  margin: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px 16px;
+}
+
+.table-header {
+  font-size: smaller;
+  background-color: #ffc124;;
+}
+
+.table-basic-div {
+
+}
+
+.table-content-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.popover {
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid black;
+  position: absolute;
+  background-color: white;
+  transition: ease-in 300ms;
+}
+
+.close-icon {
+  cursor: pointer;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 16px;
+  right: 16px;
+}
+
+.investigator-name {
+  cursor: pointer;
+}
+
