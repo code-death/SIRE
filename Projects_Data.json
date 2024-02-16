@@ -1130,24 +1130,5 @@
                 "Campus": "Goa"
             }
         }
-    },
-    {
-        "Sno": 65,
-        "Application_No": "Test 123",
-        "Project_Title": "This project is for testing purpose and collaboration logic testing",
-        "Investigators": {
-            "Test Prof 1": {
-                "Department": "Biological Science",
-                "Campus": "Goa"
-            },
-            "Test Prof 2": {
-                "Department": "Chemical Engineering",
-                "Campus": "Pilani"
-            },
-            "Hemant Rathore": {
-                "Department": "Computer Science and Information Systems",
-                "Campus": "Goa"
-            }
-        }
     }
 ]
